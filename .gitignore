@@ -1,8 +1,12 @@
 .DS_Store
 .floydexpt
+.ipynb_checkpoints/
 
 # Ignore downloaded datasets
 embeddings/data/
 embeddings/text8.zip
 
-.ipynb_checkpoints/
+*.swp
+
+dlnd_image_classification.html
+image-classification.zip
