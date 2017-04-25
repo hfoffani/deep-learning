@@ -12,3 +12,4 @@ dlnd_image_classification.html
 image-classification.zip
 
 stop-floyd.sh
+__pycache__/
