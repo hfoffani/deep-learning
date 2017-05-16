@@ -11,5 +11,5 @@ parts
 sdist
 var
 
-data/
-__pycache__/
+data
+__pycache__
