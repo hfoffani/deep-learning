@@ -21,3 +21,5 @@ dlnd_language_translation.html
 language-translation.zip
 
 batch-norm/MNIST_data/
+
+face_generation/data/
