@@ -12,3 +12,4 @@ sdist
 var
 
 data/
+__pycache__/
